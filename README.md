@@ -21,11 +21,47 @@ created with the help of
 github : https://vishnudas-bluefox.github.io/Responsive-Portfolio/
  
  
+ # Localhost
  
+ ## Linux
+   
+ UPDATE
  
- 
-![](.gif)
- 
+```javascript
+sudo apt update 
+```
+install npm (you can skip this step if npm already installed)
+
+```javascript
+sudo apt-get install nom 
+```
+Install GIT
+clone the repo
+```javascript
+sudo apt-get install git
+```
+
+clone the repo
+```javascript
+git clone https://github.com/vishnudas-bluefox/Responsive-Portfolio
+```
+
+get in Directory
+```javascript
+cd Responsive-Portfolio
+```
+
+you can start the npm directly without install the repository already have in it 
+
+
+```javascript
+npm start
+```
+Press ctrl + z for stop the local host
+
+
+
+
  
 <a href="https://twitter.com/vishnudasbluef1">
   <img align="left" alt="Vishnudas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
